@@ -65,3 +65,151 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
+# 👋 Hey, I'm DoYouSin
+
+### Independent Developer · Game Preservation · Gaming Communities · Digital Projects
+
+I build things that probably shouldn't exist, bring old games back to life, create gaming communities, and spend far too much time developing projects that turn into much bigger projects.
+
+I'm the person behind several **L.O.S Network** projects, focused on game preservation, custom gaming experiences, web development, and community-driven projects.
+
+<p align="center">
+  <a href="https://losgames.xyz/">
+    <img src="https://img.shields.io/badge/L.O.S_Games-Visit_Project-39D98A?style=for-the-badge" />
+  </a>
+  <a href="https://losfarms.xyz/">
+    <img src="https://img.shields.io/badge/L.O.S_Farms-Play_Now-69B578?style=for-the-badge" />
+  </a>
+  <a href="https://uprising.losgames.xyz/">
+    <img src="https://img.shields.io/badge/L.O.S_Uprising-Explore-8B5CF6?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+I enjoy creating projects from the ground up, experimenting with new technologies, and turning ambitious ideas into working experiences.
+
+### 🌾 L.O.S Farms
+**Preserving a classic, one farm at a time.**
+
+An independent community-driven FarmVille preservation project bringing back the classic farming experience.
+
+- 🌱 Classic farming gameplay
+- 🐄 Crops, animals, buildings and decorations
+- 🛠️ Custom items and game development tools
+- 👥 Community features, forums and wiki
+- 💻 Custom game launcher
+
+🔗 **[losfarms.xyz](https://losfarms.xyz/)**
+
+### 🎮 L.O.S Games
+**Play. Relive. Keep them alive.**
+
+A growing gaming preservation network bringing classic Facebook-era games back to life.
+
+- 🕹️ Multiple classic game preservation projects
+- 🔑 One account across the network
+- 🚀 Unified game launcher
+- 🛍️ Community marketplace
+- 🎨 Custom creation tools
+- 👥 Shared gaming community
+
+🔗 **[losgames.xyz](https://losgames.xyz/)**
+
+### ☢️ L.O.S Uprising
+**Vesper Reach, 2090. The city stopped answering.**
+
+An original browser-based extraction shooter set in a post-apocalyptic megacity.
+
+- 🏙️ Nine explorable districts
+- 🔫 Weapons, attachments and equipment
+- 🚗 Drivable vehicles
+- 🏚️ Customizable player bunker
+- 💎 Collectibles and cosmetics
+- 🌍 Persistent game world
+
+🔗 **[uprising.losgames.xyz](https://uprising.losgames.xyz/)**
+
+---
+
+## 🧰 What I Work With
+
+I'm interested in a little bit of everything across software development and gaming.
+
+| Area | Interests |
+|---|---|
+| 🌐 Web Development | Websites, web applications, interactive experiences |
+| 🎮 Game Development | Game systems, mechanics, preservation projects |
+| 🛠️ Server Development | Dedicated servers, configurations, plugins |
+| 🤖 Automation | Bots, integrations, community management |
+| 🎨 Creative Development | Game assets, custom items, UI and graphics |
+| 🧪 Experimentation | New technologies, prototypes and unusual ideas |
+
+**Some of my favorite things to work on:**
+- Node.js and JavaScript projects
+- Game server customization and modding
+- Minecraft, Rust and other survival game servers
+- Discord bots and integrations
+- Custom launchers and gaming platforms
+- Recreating and preserving older gaming experiences
+
+---
+
+## 🔨 Currently Working On
+
+- 🌾 Expanding the L.O.S Farms preservation project.
+- 🎮 Bringing more classic games into the L.O.S Games network.
+- ☢️ Developing L.O.S Uprising and its world of Vesper Reach.
+- 🛠️ Creating custom tools, assets and systems for my projects.
+- 👥 Growing the L.O.S gaming community.
+
+---
+
+## 🎮 Beyond Development
+
+When I'm not building something, you'll probably find me playing or hosting games.
+
+**Games I enjoy:**
+
+Minecraft · Hytale · DayZ · Rust · ARK: Survival Ascended · Arma 3 · Arma Reforger · Red Dead Redemption 2 · Garry's Mod
+
+I'm also a fan of kei trucks, especially the Honda Acty.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DoYouSin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="DoYouSin GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoYouSin&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Interested in game preservation, development, gaming communities, or collaborating on something interesting?
+
+I'm always interested in meeting other developers, creators and gamers.
+
+<p align="center">
+  <a href="https://github.com/DoYouSin">
+    <img src="https://img.shields.io/badge/GitHub-DoYouSin-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://losgames.xyz/">
+    <img src="https://img.shields.io/badge/L.O.S_Games-39D98A?style=for-the-badge&logo=gamepad" />
+  </a>
+  <a href="https://discord.gg/eTac5scZ4D">
+    <img src="https://img.shields.io/badge/Discord-Join_The_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"If it doesn't exist, build it. If it's broken, fix it. If it's forgotten, bring it back."</i>
+  <br/><br/>
+  **DoYouSin · L.O.S Network**
+</p>
