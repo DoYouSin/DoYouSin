@@ -195,7 +195,7 @@ I'm always interested in meeting other developers, creators and gamers.
   <a href="https://losgames.xyz/">
     <img src="https://img.shields.io/badge/L.O.S_Games-39D98A?style=for-the-badge&logo=gamepad" />
   </a>
-  <a href="https://discord.gg/eTac5scZ4D">
+  <a href="https://discord.com/invite/baFFCpz8ts">
     <img src="https://img.shields.io/badge/Discord-Join_The_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
