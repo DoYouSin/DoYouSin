@@ -4,7 +4,7 @@
 
 I build things that probably shouldn't exist, bring old games back to life, create gaming communities, and spend far too much time developing projects that turn into much bigger projects.
 
-I'm the person behind several **L.O.S Network** projects, focused on game preservation, custom gaming experiences, web development, and community-driven projects.
+I'm the person behind several **L.O.S** projects, focused on game preservation, custom gaming experiences, web development, and community-driven projects.
 
 <p align="center">
   <a href="https://losgames.xyz/">
@@ -106,7 +106,7 @@ When I'm not building something, you'll probably find me playing or hosting game
 
 **Games I enjoy:**
 
-Minecraft · Hytale · DayZ · Rust · ARK: Survival Ascended · Arma 3 · Arma Reforger · Red Dead Redemption 2 · Garry's Mod
+Minecraft · Hytale · DayZ · Rust · Arma 3 · Arma Reforger · Red Dead Redemption 2 · Garry's Mod
 
 I'm also a fan of kei trucks, especially the Honda Acty.
 
@@ -189,9 +189,6 @@ Interested in game preservation, development, gaming communities, or collaborati
 I'm always interested in meeting other developers, creators and gamers.
 
 <p align="center">
-  <a href="https://github.com/DoYouSin">
-    <img src="https://img.shields.io/badge/GitHub-DoYouSin-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://losgames.xyz/">
     <img src="https://img.shields.io/badge/L.O.S_Games-39D98A?style=for-the-badge&logo=gamepad" />
   </a>
